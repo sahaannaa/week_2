@@ -1,6 +1,6 @@
 import hashlib
 
-# Dictionary to store user credentials
+
 user_db = {}
 
 def hash_password(password):
